@@ -61,7 +61,7 @@ spring:
   
 mybatis:
   config-location: classpath:mybatis/mybatis.cfg.xml
-  type-aliases-package: com.zjx.springcloud.entity
+  type-aliases-package: com.lyj.springcloud.entity
   mapper-locations:
   - classpath:mybatis/mapper/**/*.xml
  
